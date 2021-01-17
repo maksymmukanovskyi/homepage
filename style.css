@@ -514,11 +514,12 @@
     justify-content: center;
   }
   .avatar {
+    width: 146%;
+    top: 4rem;
     position: relative;
     display: block;
     flex: 1 0 auto;
     max-width: 15rem;
-    width: 100%;
   }
   @media only screen and (max-width: 1199px) {
     .avatar-wrapper {
